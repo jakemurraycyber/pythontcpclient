@@ -1,7 +1,7 @@
 import socket
 
-target_host = 'www.google.com'
-target_port = 443
+target_host = '****' # add target URL here
+target_port = 000 # add target port here
 
 # Create socket object
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
